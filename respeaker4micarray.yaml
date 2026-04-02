@@ -76,7 +76,7 @@ wifi:
   fast_connect: ${hidden_ssid}
   ssid: !secret wifi_ssid
   password: !secret wifi_password
-  use_address: 192.168.1.197
+  use_address: 192.168.1.185
   power_save_mode: none
   reboot_timeout: 10min
   on_connect:
